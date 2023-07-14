@@ -1,0 +1,6 @@
+framework module Pods_TeamsChat {
+  umbrella header "Pods-TeamsChat-umbrella.h"
+
+  export *
+  module * { export * }
+}
